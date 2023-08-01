@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @liujinke2005
+- 👀 I’m interested in Web development.I’m currently learning Vue.js. 
+- 🌱 Pursuing intuitive, responsive web designs.
